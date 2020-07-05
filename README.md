@@ -20,6 +20,9 @@ A script that automates commands needed to install Microsoft Exchange Server 201
     <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58395">Cumulative Update 13 for Exchange Server 2016</a>
   </li>
   <li>
-    <h2>LASTLY, RUN THE SCRIPT IN POWERSHELL!</h2>
+    <h2>RUN THE SCRIPT IN POWERSHELL!</h2>
+  </li>
+  <li>
+    <h2>WHEN SCRIPT IS OVER, RIGHT CLICK EXCHANGE IN OPTICAL DRIVE AND INSTALL.</h2>
   </li>
 </ol>
