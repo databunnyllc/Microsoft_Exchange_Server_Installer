@@ -20,6 +20,7 @@ A script that automates commands needed to install Microsoft Exchange Server 201
     <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58395">Cumulative Update 13 for Exchange Server 2016</a>
   </li>
   <li>
+    <h2>Set Execution Policy to (Unrestricted) (Script will set RemoteSigned automatically)</h2>
     <h2>RUN THE SCRIPT IN POWERSHELL!</h2>
   </li>
   <li>
