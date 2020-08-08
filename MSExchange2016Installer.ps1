@@ -4,7 +4,7 @@
 Write-Host "You are about to install Microsoft Exchange Server 2016"
 $InstallChoice = Read-Host "DO YOU WANT TO CONTINUE?: [y/n]"
 
-$DriveChoice = Read-Host "WHAT DRIVE IS EXCHANGE ON?:"
+$DriveChoice = Read-Host "WHAT DRIVE IS EXCHANGE ON? (NO NEED TO TYPE COLON):"
 cd $DriveChoice":"
 
 switch ($InstallChoice) {
