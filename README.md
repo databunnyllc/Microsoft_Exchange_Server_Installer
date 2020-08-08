@@ -10,7 +10,7 @@ A script that automates commands needed to install Microsoft Exchange Server 201
     <a href="https://www.microsoft.com/en-us/download/details.aspx?id=34992">Unified Communications Managed API 4.0 Runtime</a>
   </li>
   <li>
-    <a href="https://dotnet.microsoft.com/download/dotnet-framework/net472">Netframework 4.7.2</a>
+    <a href="https://dotnet.microsoft.com/download/dotnet-framework/net48">Netframework 4.8</a>
   </li>
   <li>
     <a href="https://www.microsoft.com/en-us/download/details.aspx?id=40784">Microsoft Visual C++ 2013 Redistributable</a>
